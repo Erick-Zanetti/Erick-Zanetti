@@ -20,7 +20,7 @@ I am a **fullstack developer** with **7 years of experience** working with **Nod
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)  ![Karma](https://img.shields.io/badge/Karma-08D16C?style=for-the-badge&logo=karma&logoColor=white)  
 
 ### **Architecture & Patterns**  
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  ![Domain-Driven Design](https://img.shields.io/badge/DDD-009688?style=for-the-badge&logo=design&logoColor=white)  ![Clean Code](https://img.shields.io/badge/Clean%20Code-009688?style=for-the-badge&logo=design&logoColor=white)  ![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge&logo=azuredevops&logoColor=white)  ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-512BD4?style=for-the-badge&logo=azuredevops&logoColor=white)  
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  ![Domain-Driven Design](https://img.shields.io/badge/DDD-009688?style=for-the-badge&logo=design&logoColor=white)  ![Clean Code](https://img.shields.io/badge/Clean%20Code-009688?style=for-the-badge&logo=design&logoColor=white)  ![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge&logo=azuredevops&logoColor=white)  ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-F05032?style=for-the-badge&logo=azuredevops&logoColor=white)  
 
 
 📈 **My GitHub Stats:**  
