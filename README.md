@@ -22,6 +22,10 @@ I am a **fullstack developer** with **7 years of experience** working with **Nod
 ### **Architecture & Patterns**  
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  ![Domain-Driven Design](https://img.shields.io/badge/DDD-009688?style=for-the-badge&logo=design&logoColor=white)  ![Clean Code](https://img.shields.io/badge/Clean%20Code-009688?style=for-the-badge&logo=design&logoColor=white)  ![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge&logo=azuredevops&logoColor=white)  ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-F05032?style=for-the-badge&logo=azuredevops&logoColor=white)  
 
+### **AI**  
+![ChatGPT / OpenAI](https://img.shields.io/badge/ChatGPT%20%2F%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-3C79F2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 📈 **My GitHub Stats:**  
 
