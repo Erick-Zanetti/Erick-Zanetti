@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Erick-Zanetti&label=Profile%20views&color=0e75b6&style=flat)
 
-I am a **fullstack developer** with **7 years of experience** working with **Node.js, Angular, and React**. Currently, I focus on **Node.js and React**, always striving to improve my skills and share knowledge with the community.
+I am a **fullstack developer** with **8 years of experience** working with **Node.js, Angular, and React**. Currently, I focus on **Node.js and React**, always striving to improve my skills and share knowledge with the community.
 
 📚 **Technologies and Tools:**  
 
